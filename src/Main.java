@@ -9,7 +9,7 @@ public class Main {
         int choice;
 
         do {
-            System.out.println("Escolha uma opção:");
+            System.out.println("Escolha uma opção: ");
             System.out.println("1. Inicializar a lista vazia");
             System.out.println("2. Inserir um elemento no início da lista");
             System.out.println("3. Inserir um elemento no meio da lista");
